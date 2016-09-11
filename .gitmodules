@@ -1,0 +1,6 @@
+[submodule "RunZ"]
+	path = RunZ
+	url = https://github.com/goreliu/runz.git
+[submodule "Clipjump"]
+	path = Clipjump
+	url = https://github.com/aviaryan/Clipjump.git
